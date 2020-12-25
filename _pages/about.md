@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my personal website"
+title: "A Brief Intro..."
 excerpt: "Haris Riaz"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-This is Haris's home on the web!
+{% include base_path %}
+
+I am a final year student at the National University of Sciences & Technology (NUST).
