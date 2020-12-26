@@ -11,21 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, National University of Sciences & Technology, 2021 (expected)
+  * CGPA 3.71/4: 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2020 - Present: Research Intern @[TUKL-NUST](https://tukl.seecs.nust.edu.pk/) R&D Center 
+  * Currently working on my bachelor’s thesis ”In-Air handwriting recognition for signature verification” in collaboration with German Center for Artificial Intelligence (DFKI).
+  * Experimented with LSTM’s, GRU’s and Transformers for recognizing text written in-air using IMU signals from a Myo-armband sensor
+  * Supervisor: Dr. Imran Malik
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* June 2019 - Present: Machine Learning Intern @ CERN 
+  * Worked on binary classification of rare signal versus background in ultra-relativistic heavy-ion collisions, as part of an open source library used by the [ALICE](https://home.cern/science/experiments/alice) experiment.
+  * Implemented and compared performances of XGBoost, Random Forest & Keras algorithms on large imbalanced datasets.
+  * Worked on an automated hyperparameter tuning pipeline using Bayesian optmisation.
+  * Trained different variants of UNet to predict & correct space charge distortions in the Time Projection Chamber (TPC).
+  * Implemented residual dilated UNet and an effective validation strategy for comparing models.
+  * Presented an Internal Report on Tensorboard Studies of UNet model to members of the collaboration.
+  * Supervisor: Dr. Gian Michele Innocenti
   
 Skills
 ======
