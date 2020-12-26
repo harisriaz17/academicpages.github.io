@@ -30,7 +30,7 @@ Work experience
   * Presented an Internal Report on Tensorboard Studies of UNet model to members of the collaboration.
   * Supervisor: Dr. Gian Michele Innocenti
   
-* __JUne 2018 - September 2018: Software Development Intern @ System Analysis & Verification (SAVe) Lab__
+* __June 2018 - September 2018: Software Development Intern @ System Analysis & Verification (SAVe) Lab__
   * Led development of a C++ based white-box testing tool.
   * Worked on routines for automatic exception, assertion and dead code testing.
   * Developed a GUI using Qt.
@@ -56,12 +56,6 @@ Skills
 * Windows & Linux/Unix
 * Certified MS Office (Word, Excel & Powerpoint) expert.
 
-<!--Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
--->  
 Talks
 ======
   <ul>{% for post in site.talks %}
