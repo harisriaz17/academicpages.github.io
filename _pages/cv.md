@@ -32,19 +32,29 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* C
+* C++
+* Deep learning frameworks
+  * Tensorflow/Keras
+  * PyTorch 
+* Javascript
+  * React
+  * React Native
+  * Express.js
+  * Node.js
+* Databases
+  * SQL
+  * NoSQL: MongoDB, Mongoose
+* Windows & Linux/Unix
+* Certified MS Office (Word, Excel & Powerpoint) expert.
 
-Publications
+<!--Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+-->  
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -59,4 +69,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* NUST Community Services Club (NCSC): Organized multiple donation drives to fund primary education for orphaned/underprivileged children.
+* SEECS Declamation Chapter: Member of Speakers Pool.
