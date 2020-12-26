@@ -12,16 +12,16 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, National University of Sciences & Technology, 2021 (expected)
-  * CGPA 3.71/4: 
+  * _CGPA 3.71/4_
 
 Work experience
 ======
-* March 2020 - Present: Research Intern @[TUKL-NUST](https://tukl.seecs.nust.edu.pk/) R&D Center 
+* _March 2020 - Present: Research Intern @ [TUKL-NUST](https://tukl.seecs.nust.edu.pk/) R&D Center_ 
   * Currently working on my bachelor’s thesis ”In-Air handwriting recognition for signature verification” in collaboration with German Center for Artificial Intelligence (DFKI).
   * Experimented with LSTM’s, GRU’s and Transformers for recognizing text written in-air using IMU signals from a Myo-armband sensor
   * Supervisor: Dr. Imran Malik
 
-* June 2019 - Present: Machine Learning Intern @ CERN 
+* _June 2019 - Present: Machine Learning Intern @ CERN_ 
   * Worked on binary classification of rare signal versus background in ultra-relativistic heavy-ion collisions, as part of an open source library used by the [ALICE](https://home.cern/science/experiments/alice) experiment.
   * Implemented and compared performances of XGBoost, Random Forest & Keras algorithms on large imbalanced datasets.
   * Worked on an automated hyperparameter tuning pipeline using Bayesian optmisation.
