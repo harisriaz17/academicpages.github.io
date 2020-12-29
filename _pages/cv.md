@@ -19,7 +19,7 @@ Work experience
 * __March 2020 - Present: Research Intern @ [TUKL-NUST](https://tukl.seecs.nust.edu.pk/) R&D Center__ 
   * Currently working on my bachelor’s thesis ”In-Air handwriting recognition for signature verification” in collaboration with German Center for Artificial Intelligence (DFKI).
   * Experimented with LSTM’s, GRU’s and Transformers for recognizing text written in-air using IMU signals from a Myo-armband sensor
-  * Supervisor: Dr. Imran Malik
+  * Supervisor: [Dr. Imran Malik](https://scholar.google.com/citations?user=W0u4ORoAAAAJ&hl=en)
 
 * __June 2019 - Present: Machine Learning Intern @ CERN__ 
   * Worked on binary classification of rare signal versus background in ultra-relativistic heavy-ion collisions, as part of an open source library used by the [ALICE](https://home.cern/science/experiments/alice) experiment.
@@ -28,9 +28,9 @@ Work experience
   * Trained different variants of UNet to predict & correct space charge distortions in the Time Projection Chamber (TPC).
   * Implemented residual dilated UNet and an effective validation strategy for comparing models.
   * Presented an Internal Report on Tensorboard Studies of UNet model to members of the collaboration.
-  * Supervisor: Dr. Gian Michele Innocenti
+  * Supervisor: [Dr. Gian Michele Innocenti](https://www.researchgate.net/scientific-contributions/Gian-Michele-Innocenti-54637500)
   
-* __June 2018 - September 2018: Software Development Intern @ System Analysis & Verification (SAVe) Lab__
+* __June 2018 - September 2018: Software Development Intern @ System Analysis & Verification ([SAVe](http://save.seecs.nust.edu.pk/)) Lab__
   * Led development of a C++ based white-box testing tool.
   * Worked on routines for automatic exception, assertion and dead code testing.
   * Developed a GUI using Qt.
