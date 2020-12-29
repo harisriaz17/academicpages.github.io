@@ -21,7 +21,7 @@ Work experience
   * Experimented with LSTM’s, GRU’s and Transformers for recognizing text written in-air using IMU signals from a Myo-armband sensor
   * Supervisor: [Dr. Imran Malik](https://scholar.google.com/citations?user=W0u4ORoAAAAJ&hl=en)
 
-* __June 2019 - Present: Machine Learning Intern @ CERN__ 
+* __June 2019 - Present: Machine Learning Intern @ [CERN](https://home.cern/)__ 
   * Worked on binary classification of rare signal versus background in ultra-relativistic heavy-ion collisions, as part of an open source library used by the [ALICE](https://home.cern/science/experiments/alice) experiment.
   * Implemented and compared performances of XGBoost, Random Forest & Keras algorithms on large imbalanced datasets.
   * Worked on an automated hyperparameter tuning pipeline using Bayesian optmisation.
