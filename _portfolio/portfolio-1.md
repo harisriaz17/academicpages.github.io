@@ -1,6 +1,6 @@
 ---
 title: "Transformers-for-In-Air-Handwriting-Recognition"
-excerpt: "[Repository in development] - recognizing handwriting in-air for signature verification using large language models."<br/><img src='/images/time-series-transformer.png'>"
+excerpt: "[Repository in development] - recognizing handwriting in-air for signature verification using large language models. <br/><img src='/images/time-series-transformer.png'>"
 collection: portfolio
 ---
 
