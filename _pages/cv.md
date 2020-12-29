@@ -48,6 +48,7 @@ Skills
   * [MS Word Specialist Certification](https://www.youracclaim.com/badges/3db4be19-cf8c-43ba-9434-1df612103b70/public_url)
   * [MS Excel Specialist Certification](https://www.youracclaim.com/badges/d803faa0-3b74-43fd-86db-2328d002442c/public_url)
   * [MS Powerpoint Certification](https://www.youracclaim.com/badges/7d485a7e-1f8b-4548-bed5-e9316b1ac067/public_url)
+
 Talks
 ======
   <ul>{% for post in site.talks %}
