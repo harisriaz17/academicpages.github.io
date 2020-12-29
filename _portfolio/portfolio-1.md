@@ -1,6 +1,6 @@
 ---
 title: "Transformers-for-In-Air-Handwriting-Recognition"
-excerpt: "[In development] - recognizing handwriting in-air for signature verification using large language models.<br/><br/>Github:<a href='https://github.com/harisriaz17/Transformers-for-In-Air-Handwriting-Recognition'>https://github.com/harisriaz17/Transformers-for-In-Air-Handwriting-Recognition</a><br/><img src='/images/time-series-transformer.png'>"
+excerpt: "[In development] - recognizing handwriting in-air for signature verification using large language models.<br/><br/><a href='https://github.com/harisriaz17/Transformers-for-In-Air-Handwriting-Recognition'>https://github.com/harisriaz17/Transformers-for-In-Air-Handwriting-Recognition</a><br/><img src='/images/time-series-transformer.png'>"
 collection: portfolio
 ---
 
