@@ -1,6 +1,6 @@
 ---
 title: "Bayesian Optimization with Hyperopt"
-excerpt: "<br/><a href='https://github.com/ginnocen/MachineLearningHEP/pull/629'>https://github.com/ginnocen/MachineLearningHEP/pull/629</a><br/><img src='../images/bayesian_opt_plots.png'>"
+excerpt: "<br/><a href='https://github.com/ginnocen/MachineLearningHEP/pull/629'>https://github.com/ginnocen/MachineLearningHEP/pull/629</a><br/><img src='../images/bayesian_opt_plots.png' width='500' height = '500'/>"
 collection: portfolio
 ---
 

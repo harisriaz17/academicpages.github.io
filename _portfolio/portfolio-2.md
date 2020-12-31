@@ -1,6 +1,6 @@
 ---
 title: "Predicting space charge distortion fluctuations inside the Time Projection Chamber (TPC) with UNet"
-excerpt: "<br/><a href='https://github.com/harisriaz17/TPCwithDNN/tree/ResDUNet'>https://github.com/harisriaz17/TPCwithDNN/tree/ResDUNet</a><br/><img src='../images/DUNet_ResDUNet.png'><br/><img src='../images/unet_performance_comparison.png'/>"
+excerpt: "<br/><a href='https://github.com/harisriaz17/TPCwithDNN/tree/ResDUNet'>https://github.com/harisriaz17/TPCwithDNN/tree/ResDUNet</a><br/><img src='../images/DUNet_ResDUNet.png'><br/><img src='../images/unet_performance_comparison.png' width='500' height = '500'/>"
 collection: portfolio
 ---
 
