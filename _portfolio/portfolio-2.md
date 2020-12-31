@@ -1,10 +1,8 @@
 ---
 title: "Predicting space charge distortion fluctuations inside the Time Projection Chamber (TPC) with UNet"
-excerpt: ".<br/><br/><a href='https://github.com/harisriaz17/TPCwithDNN/tree/ResDUNet'>https://github.com/harisriaz17/TPCwithDNN/tree/ResDUNet</a><br/><img src='../images/DUNet_ResDUNet.png'>"
+excerpt: ".<br/><br/><a href='https://github.com/harisriaz17/TPCwithDNN/tree/ResDUNet'>https://github.com/harisriaz17/TPCwithDNN/tree/ResDUNet</a><br/><img src='../images/DUNet_ResDUNet.png'><br/><img src='../images/unet_performance_comparison.png'/>"
 collection: portfolio
 ---
-
-<img src="../images/unet_performance_comparison.png" alt="performance comaprison of UNet vs ResDUNet" width="500" height="500"/>
 
 The [Time Projection Chamber](http://aliceinfo.cern.ch/Public/en/Chapter2/Chap2_TPC.html)(TPC) is a particle detector used by the ALICE experiment at CERN. Due to a phenomenon known as "ion backflow" the electric field lines that guide the particle tracks inside the TPC get shifted/distorted. To correct these distortions, a data-driven strategy is employed. Particularly a 3D Convolutional Network (UNet) is used to map the effect of space charge density maps into distortion corrections. My contribution were mainly geared towards improving the performance of the UNet model, particularly with respect to minimizng the difference between the predicted and actual distortions:
 * I modified the architecture of the vanilla UNet model by implementing a parallel dilated convolution module, which used inflated kernels to preserve both spatial and semantic information throughout the encoder-decoder path of the network. 
