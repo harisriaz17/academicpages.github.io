@@ -4,7 +4,7 @@ excerpt: "<br/><a href='https://github.com/ginnocen/MachineLearningHEP/pull/629'
 collection: portfolio
 ---
 
-I worked on implementing Bayesian hyperparameter optimization into the [MachineLearningHEP](https://github.com/ginnocen/MachineLearningHEP)(MLHEP) package for XGBoost & Keras algorithms. It has the following features:
+I worked on implementing Bayesian hyperparameter optimization into the [MachineLearningHEP](https://github.com/ginnocen/MachineLearningHEP) (MLHEP) package for XGBoost & Keras algorithms. It has the following features:
 * Modular and reusable for tuning the hyperparameters of any ML/DL model in a few lines of code
 * Can optimize with respect to any evaluation metric, including custom user defined ones.
 * Returns a new model with the best set of parameters which then can immediately be evaluated on the test set.
