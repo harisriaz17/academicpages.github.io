@@ -64,4 +64,4 @@ Teaching
 Service and leadership
 ======
 * NUST Community Services Club (NCSC): Organized multiple donation drives to fund primary education for orphaned/underprivileged children.
-* SEECS Declamation Chapter: Member of Speakers Pool. [Certificate](..images/CertificateSDC.png). 
+* SEECS Declamation Chapter: Member of Speakers Pool. [Certificate](../images/CertificateSDC.png). 
