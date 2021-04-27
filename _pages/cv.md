@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, National University of Sciences & Technology, 2021 (expected)
-  * __CGPA 3.71/4__
+  * __CGPA 3.73/4__
 
 Work experience
 ======
