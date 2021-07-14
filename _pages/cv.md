@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * __March 2020 - June 2021: Research Intern @ [TUKL-NUST](https://tukl.seecs.nust.edu.pk/) R&D Center__ 
-  * Currently working on my bachelor’s thesis ”In-Air handwriting recognition for signature verification” in collaboration with German Center for Artificial Intelligence (DFKI).
+  * Currently working on my bachelor’s thesis "In-Air handwritten sequence recognition & verification".
   * Experimented with LSTM’s, GRU’s and Transformers for recognizing text written in-air using IMU signals from a Myo-armband sensor
   * Supervisor: [Dr. Imran Malik](https://scholar.google.com/citations?user=W0u4ORoAAAAJ&hl=en)
 
