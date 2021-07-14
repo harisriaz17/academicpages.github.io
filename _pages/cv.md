@@ -13,6 +13,9 @@ Education
 ======
 * B.S. in Computer Science, National University of Sciences & Technology, 2021
   * __CGPA 3.75/4__
+ 
+* Ph.D. in Computer Science, University of Arizona, starts in Fall 2021
+  * Areas of interest: Machine Learning, Natural Language Processing, Natural Language Understanding, Natural Language Inference.
 
 Work experience
 ======
